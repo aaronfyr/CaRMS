@@ -6,3 +6,5 @@ Merlion  Car  Rental  (MCR) is a new car rental company with planned outlets str
 In addition to its own internal use, the CaRMS will also be exposed to external partners such as  price  comparison  websites,  online  travel  websites  and  travel  agencies.  This  will  allow  MCR to sell its car inventory to a wider audience. At this juncture, MCR has already inked an agreement with Holiday.com. This would allow users of Holiday.com’s Holiday Reservation System to search for and rent cars from MCR as part of their holiday packages. 
  
 You  and  your  partner  have  recently  been  recruited  by  KRT  to  design  and  develop  this exciting enterprise-scale software system. You are all roaring to get started! 
+
+All  software  elements  constituting  the  CaRMS  are  to  be  developed  in  Java  using  Jakarta Enterprise  Edition  (Jakarta  EE).  In  particular,  Jakarta  Enterprise  Beans  (EJB)  and  Jakarta  Persistence  API  (JPA)  technologies  are  to  be  used  in  conjunction  with  a  suitable  Relational  Database  Management  System  (RDBMS)  such  as  MySQL.  Only  Command-line  Interface  (CLI) client applications are required. 
