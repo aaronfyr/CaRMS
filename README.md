@@ -9,4 +9,4 @@ In addition to its own internal use, the CaRMS will also be exposed to external 
 You  and  your  partner  have  recently  been  recruited  by  KRT  to  design  and  develop  this exciting enterprise-scale software system. You are all roaring to get started! 
 
 ## Software Elements
-All  software  elements  constituting  the  CaRMS  are  to  be  developed  in  Java  using  Jakarta Enterprise  Edition  (Jakarta  EE).  In  particular,  Jakarta  Enterprise  Beans  (EJB)  and  Jakarta  Persistence  API  (JPA)  technologies  are  to  be  used  in  conjunction  with  a  suitable  Relational  Database  Management  System  (RDBMS)  such  as  MySQL.  Only  Command-line  Interface  (CLI) client applications are required. 
+All  software  elements  constituting  the  CaRMS  are  to  be  developed  in  Java  using  Jakarta Enterprise  Edition  (Jakarta  EE).  In  particular,  Jakarta  Enterprise  Beans  (EJB)  and  Jakarta  Persistence  API  (JPA)  technologies  are  to  be  used  in  conjunction  with  a  suitable  Relational  Database  Management  System  (RDBMS)  such  as  MySQL.  Only  Command-line  Interface  (CLI) client applications are required.
